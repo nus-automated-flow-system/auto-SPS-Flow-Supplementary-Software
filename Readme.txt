@@ -72,7 +72,7 @@ Demo test table included in the folder:
 
 After successful completion of the program, the message "No more entries left. The operation will now stop." will be displayed
 
-Expected run time for demo: ~ 21 hr
+Expected run time for demo: ~ 32 hr
 
 If the required instruments are not connected properly, an error will occur with the reason:
 "VISA:  (Hex 0xBFFF000E) The given session or object reference is invalid."
